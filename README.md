@@ -14,16 +14,17 @@
 
 ### Languages and Tools:
 
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img src="https://img.icons8.com/color/48/000000/redux.png"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
+<a><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+<a><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
+<a><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+<a><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
+<a><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
+<a><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
+<a><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+<a><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
 
 
 <br />
