@@ -1,29 +1,15 @@
-### Hi there, I'm Gavin Kung 👋
+<h1 align="center">Hi 👋, I'm Gavin Kong</h1>
+<h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-- 💪 I’m currently learning everything 
-- 🏢 I’m Looking for job opportunities
-- 🖥️ 2021 Goals: Build 20 Hands On Projects in React and Javascript
+- 🌱 I’m currently learning **Svelte, Vite**
 
-### Connect with me:
+- ⚡ Fun fact **My Chinese full name is a Japanese surname**
 
-[<img align="left" alt="x5427876" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="x5427876 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="x5427876 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-### Languages and Tools:
-
-<a><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
-<a><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-<a><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-<a><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
-
-
-<br />
-<br />
-
-[website]: https://my-blog-x5427876.vercel.app/
-[instagram]: https://www.instagram.com/kongtse.0613/
-[linkedin]: https://www.linkedin.com/in/tse-kung-2794a4204/
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x5427876&show_icons=true&locale=en&layout=compact" alt="x5427876" /></p>
