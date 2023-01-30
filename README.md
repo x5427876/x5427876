@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **a1458661@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/kpV24](shorturl.at/kpV24)
+- 📄 Know about my experiences [https://shorturl.at/kpV24](https://shorturl.at/kpV24)
 
 - ⚡ Fun fact **My Chinese full name is a Japanese surname**
 
